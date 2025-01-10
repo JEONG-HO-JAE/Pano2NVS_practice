@@ -70,3 +70,4 @@ ACM Reference Format:
 Guo Pu, Yiming Zhao, and Zhouhui Lian. 2024. Pano2Room: Novel View Synthesis from a Single Indoor Panorama. In SIGGRAPH Asia 2024 Conference Papers (SA Conference Papers '24), December 3--6, 2024, Tokyo, Japan. ACM, New York, NY, USA, 10 pages.
 https://doi.org/10.1145/3680528.3687616
 ```
+# Pano2NVS_practice
